@@ -26,9 +26,4 @@ Antes de rodar o projeto, você precisa ter instalado:
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 - [React Native](https://reactnative.dev/docs/environment-setup)
 
-## Instalação
 
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/SEU_USUARIO/controlefluxo.git
